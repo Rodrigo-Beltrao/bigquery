@@ -1,2 +1,2 @@
 # bigquery
-Realização, em notebook com python, de uma análise de dados com SQL em uma biblioteca que permite o acesso ao Google BigQuery.
+Realização, em notebook com python, de uma análise de dados com SQL em uma biblioteca que permite o acesso ao Google BigQuery. A análise de dados foi feita a partir de um csv público do governo que monstra dados sobre as exportações por estados brasileiros no ano de 2022. Com a análise de dados, foi possível fazer uma converção das exportações de quilograma (KG) para tonelada (T) e mostrar a porcentagem de toneladas que cada estado brasileiro exportou em 2022.
